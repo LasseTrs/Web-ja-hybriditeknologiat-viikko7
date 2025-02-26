@@ -50,4 +50,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default  Add
+export default Add;
